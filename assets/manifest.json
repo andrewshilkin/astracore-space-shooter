@@ -1,0 +1,276 @@
+{
+  "entries": [
+    {
+      "sourcePath": "crosshair.png",
+      "outputPath": "crosshair.webp",
+      "originalSize": 297,
+      "convertedSize": 244,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "laserRed.png",
+      "outputPath": "laserRed.webp",
+      "originalSize": 735,
+      "convertedSize": 404,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "laserRedHit.png",
+      "outputPath": "laserRedHit.webp",
+      "originalSize": 752,
+      "convertedSize": 980,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "playerShip1_green.png",
+      "outputPath": "playerShip1_green.webp",
+      "originalSize": 2708,
+      "convertedSize": 1798,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet00.png",
+      "outputPath": "Planets/planet00.webp",
+      "originalSize": 286506,
+      "convertedSize": 105268,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet01.png",
+      "outputPath": "Planets/planet01.webp",
+      "originalSize": 307637,
+      "convertedSize": 109930,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet02.png",
+      "outputPath": "Planets/planet02.webp",
+      "originalSize": 260330,
+      "convertedSize": 101136,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet03.png",
+      "outputPath": "Planets/planet03.webp",
+      "originalSize": 288728,
+      "convertedSize": 95432,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet04.png",
+      "outputPath": "Planets/planet04.webp",
+      "originalSize": 343482,
+      "convertedSize": 97736,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet05.png",
+      "outputPath": "Planets/planet05.webp",
+      "originalSize": 294507,
+      "convertedSize": 51210,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet06.png",
+      "outputPath": "Planets/planet06.webp",
+      "originalSize": 306816,
+      "convertedSize": 57440,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet07.png",
+      "outputPath": "Planets/planet07.webp",
+      "originalSize": 291672,
+      "convertedSize": 81196,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet08.png",
+      "outputPath": "Planets/planet08.webp",
+      "originalSize": 291474,
+      "convertedSize": 70666,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Planets/planet09.png",
+      "outputPath": "Planets/planet09.webp",
+      "originalSize": 236345,
+      "convertedSize": 65214,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_big1.png",
+      "outputPath": "Meteors/meteorBrown_big1.webp",
+      "originalSize": 1804,
+      "convertedSize": 1282,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_big2.png",
+      "outputPath": "Meteors/meteorBrown_big2.webp",
+      "originalSize": 2323,
+      "convertedSize": 1642,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_big3.png",
+      "outputPath": "Meteors/meteorBrown_big3.webp",
+      "originalSize": 1713,
+      "convertedSize": 1240,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_big4.png",
+      "outputPath": "Meteors/meteorBrown_big4.webp",
+      "originalSize": 1990,
+      "convertedSize": 1434,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_med1.png",
+      "outputPath": "Meteors/meteorBrown_med1.webp",
+      "originalSize": 982,
+      "convertedSize": 630,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_med3.png",
+      "outputPath": "Meteors/meteorBrown_med3.webp",
+      "originalSize": 881,
+      "convertedSize": 632,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_small1.png",
+      "outputPath": "Meteors/meteorBrown_small1.webp",
+      "originalSize": 692,
+      "convertedSize": 438,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_small2.png",
+      "outputPath": "Meteors/meteorBrown_small2.webp",
+      "originalSize": 667,
+      "convertedSize": 434,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_tiny1.png",
+      "outputPath": "Meteors/meteorBrown_tiny1.webp",
+      "originalSize": 461,
+      "convertedSize": 332,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorBrown_tiny2.png",
+      "outputPath": "Meteors/meteorBrown_tiny2.webp",
+      "originalSize": 371,
+      "convertedSize": 258,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_big1.png",
+      "outputPath": "Meteors/meteorGrey_big1.webp",
+      "originalSize": 1786,
+      "convertedSize": 1060,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_big2.png",
+      "outputPath": "Meteors/meteorGrey_big2.webp",
+      "originalSize": 2310,
+      "convertedSize": 1418,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_big3.png",
+      "outputPath": "Meteors/meteorGrey_big3.webp",
+      "originalSize": 1699,
+      "convertedSize": 1060,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_big4.png",
+      "outputPath": "Meteors/meteorGrey_big4.webp",
+      "originalSize": 1967,
+      "convertedSize": 1208,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_med1.png",
+      "outputPath": "Meteors/meteorGrey_med1.webp",
+      "originalSize": 966,
+      "convertedSize": 546,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_med2.png",
+      "outputPath": "Meteors/meteorGrey_med2.webp",
+      "originalSize": 864,
+      "convertedSize": 554,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_small1.png",
+      "outputPath": "Meteors/meteorGrey_small1.webp",
+      "originalSize": 677,
+      "convertedSize": 392,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_small2.png",
+      "outputPath": "Meteors/meteorGrey_small2.webp",
+      "originalSize": 657,
+      "convertedSize": 380,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_tiny1.png",
+      "outputPath": "Meteors/meteorGrey_tiny1.webp",
+      "originalSize": 463,
+      "convertedSize": 302,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Meteors/meteorGrey_tiny2.png",
+      "outputPath": "Meteors/meteorGrey_tiny2.webp",
+      "originalSize": 372,
+      "convertedSize": 246,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Backgrounds/black.png",
+      "outputPath": "Backgrounds/black.webp",
+      "originalSize": 2515,
+      "convertedSize": 232,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Backgrounds/blue.png",
+      "outputPath": "Backgrounds/blue.webp",
+      "originalSize": 2760,
+      "convertedSize": 274,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Backgrounds/darkPurple.png",
+      "outputPath": "Backgrounds/darkPurple.webp",
+      "originalSize": 2880,
+      "convertedSize": 284,
+      "sourceFormat": "png"
+    },
+    {
+      "sourcePath": "Backgrounds/purple.png",
+      "outputPath": "Backgrounds/purple.webp",
+      "originalSize": 3132,
+      "convertedSize": 358,
+      "sourceFormat": "png"
+    }
+  ],
+  "summary": {
+    "totalConverted": 38,
+    "totalSkipped": 0,
+    "totalOriginalSize": 2946921,
+    "totalConvertedSize": 855290
+  }
+}
