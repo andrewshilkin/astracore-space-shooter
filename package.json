@@ -1,0 +1,24 @@
+{
+  "name": "astracore-space-shooter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d . --dotfiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewshilkin/astracore-space-shooter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/andrewshilkin/astracore-space-shooter/issues"
+  },
+  "homepage": "https://github.com/andrewshilkin/astracore-space-shooter#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
