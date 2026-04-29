@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d . --dotfiles"
+    "deploy": "git checkout gh-pages && git checkout main -- index.html assets/ && git add -A && git commit -m 'Deploy' && git push && git checkout main"
   },
   "repository": {
     "type": "git",
